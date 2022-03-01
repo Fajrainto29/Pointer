@@ -7,9 +7,7 @@ int main() {
 	int a = 10;
 	int b = 15;
 	int c = 27;
-	int *p1;
-	int *p2;
-	int *p3;
+	int *p1, *p2, *p3;
 
 	p1 = &b;
 	p2 = p1;
